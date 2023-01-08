@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yaswanth@duck.com
+- 📫 Reach me at yaswanth@duck.com
 
 <!---
 yaswanthtondepu/yaswanthtondepu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
